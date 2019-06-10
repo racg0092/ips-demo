@@ -1,0 +1,23 @@
+{
+  "name": "ips-demo",
+  "version": "1.0.0",
+  "description": "First Electron App",
+  "main": "src/main.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/racg0092/ips-demo.git"
+  },
+  "author": "racg0092",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/racg0092/ips-demo/issues"
+  },
+  "homepage": "https://github.com/racg0092/ips-demo#readme",
+  "devDependencies": {
+    "electron": "^5.0.3"
+  }
+}
